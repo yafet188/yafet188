@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yafet</h1>
 <h3 align="center">Passionately dedicated to harnessing the power of code to transform ideas into reality.</h3>
 
-- 👯 I’m looking to collaborate on **Deal or No Deal**
+- 🔭 I’m currently working on **InternSync**
+
+- 🌱 I’m currently learning **Python, Java and C**
+
+- 🤝 I’m looking for help with **Deal or No Deal**
 
 - 📫 How to reach me **tegbaruyafet18@gmail.com**
 
