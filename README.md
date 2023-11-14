@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Java and C**
 
-- 🤝 I’m looking for help with **Deal or No Deal**
+- 🤝 I’m looking for help with a gameshow project called **Deal or No Deal**
 
 - 📫 How to reach me **tegbaruyafet18@gmail.com**
 
