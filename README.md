@@ -16,7 +16,6 @@
 <a href="https://linkedin.com/in/yafet tegbaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yafet tegbaru" height="30" width="40" /></a>
 <a href="https://fb.com/yafet.tegbaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yafet.tegbaru" height="30" width="40" /></a>
 <a href="https://instagram.com/yafet.tegbaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yafet.tegbaru" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yafettegbaru3887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yafettegbaru3887" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yafet18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yafet18" height="30" width="40" /></a>
 <a href="https://discord.gg/yafet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yafet" height="30" width="40" /></a>
 </p>
