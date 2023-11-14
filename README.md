@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yafet</h1>
 <h3 align="center">Passionately dedicated to harnessing the power of code to transform ideas into reality.</h3>
 
-- 🔭 I’m currently working on **InternSync**
+- 🔭 I’m currently working on a collab project called **InternSync**
 
 - 🌱 I’m currently learning **Python, Java and C**
 
