@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a collab project called **InternSync**
 
-- 🌱 I’m currently learning **Python, Java and C**
+- 🌱 I’m currently learning **Python and C++**
 
 - 💼 I’m looking for help with a gameshow project called **Deal or No Deal**
 
