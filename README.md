@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yafet</h1>
 <h3 align="center">Passionately dedicated to harnessing the power of code to transform ideas into reality.</h3>
 
-- 🔭 I’m currently working on a collab project called **InternSync**
-
-- 🌱 I’m currently learning **Python and C++**
-
 - 📫 How to reach me: **tegbaruyafet18@gmail.com**
 
 - 📄 Know about my experiences: [https://docs.google.com/document/d/1D3ftO5533eyADcCdrP8pmYBpwgBL2FgPLxRUiTLAEG4/edit](https://docs.google.com/document/d/1D3ftO5533eyADcCdrP8pmYBpwgBL2FgPLxRUiTLAEG4/edit)
