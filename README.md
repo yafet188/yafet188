@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python and C++**
 
-- 💼 I’m looking for help with a gameshow project called **Deal or No Deal**
-
 - 📫 How to reach me **tegbaruyafet18@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1D3ftO5533eyADcCdrP8pmYBpwgBL2FgPLxRUiTLAEG4/edit](https://docs.google.com/document/d/1D3ftO5533eyADcCdrP8pmYBpwgBL2FgPLxRUiTLAEG4/edit)
