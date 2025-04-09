@@ -3,7 +3,7 @@
 </h1>
 
 # 👀 About Me:
-🎯 I’m currently working on<br>A full-stack web application for St. Mary St. Maurice Church using React.js, Next.js, and Tailwind CSS.<br><br>🤝 I’m looking to collaborate on<br>Exciting frontend or full-stack projects that involve React, TypeScript, or UX-focused design.<br><br>✋ I’m looking for help with<br>Improving my backend development skills and learning more about deploying scalable web apps.<br><br>🌱 I’m currently learning<br>Advanced TypeScript patterns, full-stack development with Next.js, and AI integration for personalized learning tools.<br><br>💬 Ask me about<br>Frontend development, React hooks, integrating APIs, or creating clean and responsive UIs with Tailwind CSS.<br><br> ⚽ Fun fact<br>I’m a huge football fan — I play regularly and love watching matches (KTBFFH!💙) .
+🎯 I’m currently working on<br>A full-stack web application for St. Mary St. Maurice Church using React.js, Next.js, and Tailwind CSS.<br><br>🤝 I’m looking to collaborate on<br>Exciting frontend or full-stack projects that involve React, TypeScript, or UX-focused design.<br><br>✋ I’m looking for help with<br>Improving my backend development skills and learning more about deploying scalable web apps.<br><br>🌱 I’m currently learning<br>Advanced TypeScript patterns, full-stack development with Next.js, and AI integration for personalized learning tools.<br><br>💬 Ask me about<br>Frontend development, React hooks, integrating APIs, or creating clean and responsive UIs with Tailwind CSS.<br><br> ⚽ Fun fact<br>I’m a huge football fan — I play regularly and love watching matches (KTBFFH!💙).
 
 
 ## 🌐 Socials:
